@@ -1,0 +1,16 @@
+node_modules
+.next
+.git
+.gitignore
+*.log
+db/*.db
+db/*.db-journal
+.env.local
+.env.*.local
+download
+upload
+tool-results
+scripts/replace_meeting_render.py
+*.md
+!DEPLOY.md
+!README.md
